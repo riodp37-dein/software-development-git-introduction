@@ -1,0 +1,2 @@
+Hello everyone!
+Nama saya Rio Dwi Prayoga dengan NPM 2313020009 dari Program Studi Teknik Informatika. Saya memiliki minat di bidang IT khususnya pada di jaringan komputer dan machine learning. Saya juga menggunakan platform seperti github untuk mempelajari pengembangan software dan memperdalam penguasaan ilmu informasi saya
